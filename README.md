@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Gonzalo</h1>
-<h3 align="center">Ph.D. student in privacy-enhancing technology with a focus on differential privacy</h3>
+<h3 align="center">Ph.D. student in privacy-enhancing technology with a focus on differential privacy - Data scientist</h3>
 
 - 🔭 I’m currently working on **differntial privacy**
 
 - 🌱 I’m currently learning **cryptography basics**
+
+- 📝 I regularly write articles on [https://github.com/gonzalo-munillag/Blog](https://github.com/gonzalo-munillag/Blog)
 
 - 💬 Ask me about **probability, privacy-enhancing technologies, and differential privacy**
 
