@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **cryptography basics**
 
-- 📝 I regularly write articles on [https://github.com/gonzalo-munillag/Blog](https://github.com/gonzalo-munillag/Blog)
+- 📝 I regularly write articles on [OpenMined's Blog](https://blog.openmined.org/author/gonzalo/) and in my [here](https://github.com/gonzalo-munillag/Blog)
 
 - 💬 Ask me about **probability, privacy-enhancing technologies, and differential privacy**
 
