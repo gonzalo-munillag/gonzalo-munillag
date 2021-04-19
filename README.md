@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gonzalo</h1>
+<h1 align="center">Hi 👋 I'm Gonzalo</h1>
 <h3 align="center">Ph.D. student in privacy-enhancing technology with a focus on differential privacy | Data scientist</h3>
 
 - 🔭 I’m currently working on **differntial privacy**
