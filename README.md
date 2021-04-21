@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [OpenMined's Blog](https://blog.openmined.org/author/gonzalo/), click [here](https://github.com/gonzalo-munillag/Blog) for more content. 
 
-- 💬 Ask me about **privacy-enhancing technologies, probability, and differential privacy**
+- 💬 Ask me about **privacy-enhancing technologies, probability, differential privacy, and blockchain**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
