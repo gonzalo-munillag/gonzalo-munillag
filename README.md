@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/g_munilla" target="blank"><img align="center" src="https://www.infolaw.co.uk/newsletter/wp-content/uploads/2016/07/Twitter_logo_blue-1024x833.png" alt="g_munilla" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/gonzalo-munilla/" target="blank"><img align="center" src="file:///Users/q493551/Desktop/LI-Bug.svg.original.svg" alt="https://www.linkedin.com/in/gonzalo-munilla/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/gonzalo-munilla/" target="blank"><img align="center" src="https://logospng.org/download/linkedin/logo-linkedin-icon-2048.png" alt="https://www.linkedin.com/in/gonzalo-munilla/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
