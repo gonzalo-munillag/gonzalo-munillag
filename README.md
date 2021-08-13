@@ -17,7 +17,7 @@
 
 <h3 align="left">Worked and researched for:</h3>
 <p align="left">
-<a href="https://www.tum.de/en/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Logo_of_the_Technical_University_of_Munich.svg/1200px-Logo_of_the_Technical_University_of_Munich.svg.png" alt="https://www.tum.de/en/" height="30" width="40" /></a>
+<a href="https://www.tum.de/en/" target="blank"><img align="center" src="https://cdn.freelogovectors.net/wp-content/uploads/2019/02/tum-logo.png" alt="https://www.tum.de/en/" height="30" width="40" /></a>
 <a href="https://www.bmw.com/en/index.html" target="blank"><img align="center" src="https://www.bmw.com/etc.clientlibs/settings/wcm/designs/bmwcom/base/resources/ci2020/img/logo-light.svg" alt="https://www.bmw.com/en/index.html" height="40" width="40" /></a>
 </p>
 
