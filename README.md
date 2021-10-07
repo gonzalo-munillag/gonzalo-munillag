@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/g_munilla" target="blank"><img align="center" src="https://www.macerkopf.de/wp-content/uploads/2015/06/twitter_logo.png?x38856" height="30" width="40" /></a>
+<a href="https://twitter.com/g_munilla" target="blank"><img align="center" src="https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2019/12/twitter-logo.jpg" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/gonzalo-munilla/" target="blank"><img align="center" src="https://logospng.org/download/linkedin/logo-linkedin-icon-2048.png" alt="https://www.linkedin.com/in/gonzalo-munilla/" height="40" width="40" /></a>
 </p>
 
