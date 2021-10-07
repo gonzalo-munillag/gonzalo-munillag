@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/g_munilla" target="blank"><img align="center" src="https://www.uni-giessen.de/fbz/planetarythinking/logo/image_view_fullscreen" height="30" width="40" /></a>
+<a href="https://twitter.com/g_munilla" target="blank"><img align="center" src="https://www.clipartmax.com/png/middle/251-2517877_tweet-twitter-icon-icon-chirrup-icon-icon-twitter-png-format-twitter-logo.png" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/gonzalo-munilla/" target="blank"><img align="center" src="https://logospng.org/download/linkedin/logo-linkedin-icon-2048.png" alt="https://www.linkedin.com/in/gonzalo-munilla/" height="40" width="40" /></a>
 </p>
 
