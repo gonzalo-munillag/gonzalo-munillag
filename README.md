@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **differntial privacy**
 
-- 🌱 I’m currently learning **cloud development**
+- 🌱 I’m currently learning **system's architecture**
 
 - 📝 I regularly write articles on [OpenMined's Blog](https://blog.openmined.org/author/gonzalo/), click [here](https://github.com/gonzalo-munillag/Blog) for more content. 
 
