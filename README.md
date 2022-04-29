@@ -18,7 +18,7 @@
 <h3 align="left">Worked and researched for:</h3>
 <p align="left">
 <a href="https://www.tum.de/en/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c8/Logo_of_the_Technical_University_of_Munich.svg" alt="https://www.tum.de/en/" height="30" width="50" /></a>
-<a href="https://eecs.berkeley.edu/" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fde.wikipedia.org%2Fwiki%2FUniversity_of_California%2C_Berkeley&psig=AOvVaw1r6Jkxbv759Bsw-O-tsvRQ&ust=1651339623349000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMD-5NjlufcCFQAAAAAdAAAAABAD" height="50" width="50" /></a>
+<a href="https://eecs.berkeley.edu/" target="blank"><img align="center" src="https://petris.org/wp-content/uploads/2018/05/UC-Berkeley-Logo-300x300.png" height="30" width="50" /></a>
 <a href="https://www.bmw.com/en/index.html" target="blank"><img align="center" src="https://www.bmw.com/etc.clientlibs/settings/wcm/designs/bmwcom/base/resources/ci2020/img/logo-light.svg" alt="https://www.bmw.com/en/index.html" height="40" width="40" /></a>
 </p>
 
