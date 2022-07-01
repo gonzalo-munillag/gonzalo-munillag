@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning about **federated learning**
 
-- 📝 I write articles on [OpenMined's Blog](https://blog.openmined.org/author/gonzalo/), click [here](https://github.com/gonzalo-munillag/Blog) for more content. [HERE](https://blog.openmined.org/author/gonzalo/) [Resume](https://blog.openmined.org/author/gonzalo/](https://github.com/gonzalo-munillag/Resume/raw/main/Resume.pdf) 
+- 📝 I write articles on [OpenMined's Blog](https://blog.openmined.org/author/gonzalo/), click [here](https://github.com/gonzalo-munillag/Blog) for more content. [HERE](https://blog.openmined.org/author/gonzalo/) [Resume](https://github.com/gonzalo-munillag/Resume/raw/main/Resume.pdf) 
 
 - 💬 Ask me about **privacy-enhancing technologies, differential privacy, and blockchain**
 
