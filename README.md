@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋 I'm Gonzalo</h1>
 <h3 align="center">Ph.D. student in privacy-enhancing technologiesy with a focus on differential privacy </h3>
-<h4 align="center">[Resume](https://blog.openmined.org/author/gonzalo/](https://github.com/gonzalo-munillag/Resume/raw/main/Resume.pdf) </h4>
+<h4 align="center"> [OpenMined's Blog](https://blog.openmined.org/author/gonzalo/)</h4>
+ [Resume](https://blog.openmined.org/author/gonzalo/](https://github.com/gonzalo-munillag/Resume/raw/main/Resume.pdf) 
  
 - 🔭 I’m currently working on **differntial privacy**
 
