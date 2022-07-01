@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋 I'm Gonzalo</h1>
 <h3 align="center">Ph.D. student in privacy-enhancing technologiesy with a focus on differential privacy </h3>
-<h4 align="center"> [OpenMined's Blog](https://blog.openmined.org/author/gonzalo/)</h4>
+<align="center"> [OpenMined's Blog](https://blog.openmined.org/author/gonzalo/)</h4>
  
  
 - 🔭 I’m currently working on **differntial privacy**
 
 - 🌱 I’m currently learning about **federated learning**
 
-- 📝 I write articles on [OpenMined's Blog](https://blog.openmined.org/author/gonzalo/), click [here](https://github.com/gonzalo-munillag/Blog) for more content. [HERE](https://blog.openmined.org/author/gonzalo/) [Resume](https://github.com/gonzalo-munillag/Resume/raw/main/Resume.pdf) 
+- 📝 I write articles on [OpenMined's Blog](https://blog.openmined.org/author/gonzalo/), click [here](https://github.com/gonzalo-munillag/Blog) for more content. [HERE](https://blog.openmined.org/author/gonzalo/) 
 
 - 💬 Ask me about **privacy-enhancing technologies, differential privacy, and blockchain**
 
