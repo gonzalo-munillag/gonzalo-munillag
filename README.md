@@ -7,7 +7,7 @@ I work on improving the applicability of privacy-enhancing technology to real-wo
 
 📝 I write articles on [OpenMined's Blog](https://blog.openmined.org/author/gonzalo/), click [here](https://github.com/gonzalo-munillag/Blog) for more content. 
 
-💬 Ask me about **privacy-enhancing technologies, differential privacy, and blockchain**
+💬 Ask me about **privacy-enhancing technologies, differential privacy, and blockchain**.
 
 <h3 align="left">Worked and researched for:</h3>
 <p align="left">
