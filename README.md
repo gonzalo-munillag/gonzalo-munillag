@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Gonzalo</h1>
-<h3 align="center">Ph.D. student in privacy-enhancing technologiesy with a focus on differential privacy </h3>
+<h3 align="center">Ph.D. student researching privacy-enhancing technologies with a focus on differential privacy </h3>
  
 You may download my [resume here](https://github.com/gonzalo-munillag/Resume/raw/main/Resume.pdf) 
 
