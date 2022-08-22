@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋 I'm Gonzalo</h1>
 <h3 align="center">Ph.D. student researching privacy-enhancing technologies with a focus on differential privacy </h3>
  
-**You may download my [resume here](https://github.com/gonzalo-munillag/Resume/raw/main/Resume.pdf).**
-
 I work on improving the applicability of privacy-enhancing technology to real-world applications.
+
+📃 **You may download my [RESUME](https://github.com/gonzalo-munillag/Resume/raw/main/Resume.pdf).**
+
+💻 Co-creator of the first proposal for a metaverse incognito mode [MetaGuard](https://rdi.berkeley.edu/metaverse/) ([repository](https://github.com/MetaGuard)).
+
+📰 My research is covered in [Forbes](https://www.forbes.com/sites/dylansloan/2022/08/09/worried-your-phone-is-spying-on-you-just-wait-until-youre-inside-it/?sh=5960119c5794), [Google's Awakening Magazine](https://about.google/intl/de_AE/stories/differential-privacy/), and The Register ([II](https://www.theregister.com/2022/07/29/metaverse_privacy_study/) and [II](https://www.theregister.com/2022/08/18/metaguard_promises_protection_from_metaverse/))
 
 📝 I write articles on [OpenMined's Blog](https://blog.openmined.org/author/gonzalo/), click [here](https://github.com/gonzalo-munillag/Blog) for more content. 
 
