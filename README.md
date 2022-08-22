@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋 I'm Gonzalo</h1>
 <h3 align="center">Ph.D. student researching privacy-enhancing technologies with a focus on differential privacy </h3>
  
-I work on improving the applicability of privacy-enhancing technology to real-world applications.
-
 📃 **You may download my [RESUME](https://github.com/gonzalo-munillag/Resume/raw/main/Resume.pdf).**
 
 💻 Co-creator of the first proposal for a metaverse incognito mode [MetaGuard](https://rdi.berkeley.edu/metaverse/) ([repository](https://github.com/MetaGuard)).
