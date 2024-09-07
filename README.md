@@ -16,7 +16,7 @@
 
   <li>I wrote differential privacy tutorials on <a href="https://blog.openmined.org/author/gonzalo/">OpenMined's Blog</a>, click <a href="https://github.com/gonzalo-munillag/Blog">here</a> for more content</li>
 
-  <li>Feel free to reach out to talk about <strong>privacy-enhancing technologies, differential privacy, blockchain, and digital platforms</strong></li>
+  <li>Feel free to reach out to talk about privacy-enhancing technologies, differential privacy, blockchain, and digital platforms</li>
 </ul>
 
 <h3 align="left">Worked and researched for:</h3>
@@ -25,7 +25,7 @@
 <a href="https://eecs.berkeley.edu/" target="blank"><img align="center" src="https://petris.org/wp-content/uploads/2018/05/UC-Berkeley-Logo-300x300.png" height="50" width="50" /></a>
 <a href="https://www.bmw.com/en/index.html" target="blank"><img align="center" src="https://www.bmw.com/etc.clientlibs/settings/wcm/designs/bmwcom/base/resources/ci2020/img/logo-light.svg" alt="https://www.bmw.com/en/index.html" height="40" width="40" /></a>
 <a href="https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/europe-fit-digital-age/digital-markets-act-ensuring-fair-and-open-digital-markets_en" target="_blank">
-  <img align="center" src="https://www.bmw.com/etc.clientlibs/settings/wcm/designs/bmwcom/base/resources/ci2020/img/logo-light.svg" alt="BMW Logo" height="40" width="40">
+  <img align="center" src="[https://www.bmw.com/etc.clientlibs/settings/wcm/designs/bmwcom/base/resources/ci2020/img/logo-light.svg](https://en.wikipedia.org/wiki/European_Commission)" alt="EC Logo" height="40" width="40">
 </a>
 </p>
 
