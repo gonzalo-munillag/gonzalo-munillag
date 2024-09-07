@@ -9,6 +9,8 @@
 
 <ul>
   <li>You may download my resume <a href="https://github.com/gonzalo-munillag/Resume/raw/main/Resume.pdf">here</a></li>
+  
+  <li>You may find my publications in my <a href="https://scholar.google.com/citations?user=4Vwt9AEAAAAJ&hl=en&oi=ao">Google Scholar</a></li>
 
   <li>Co-Creator of the first concept for a metaverse incognito mode <a href="https://rdi.berkeley.edu/metaverse/">MetaGuard</a> (<a href="https://github.com/MetaGuard">repository</a>)</li>
 
