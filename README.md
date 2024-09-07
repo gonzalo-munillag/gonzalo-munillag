@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gonzalo</h1>
+<h1 align="center">Gonzalo Munilla Garrido</h1>
 
 <h3 align="center">
   Technologist & Researcher - Enforcing the 
