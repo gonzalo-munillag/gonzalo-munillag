@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋 I'm Gonzalo</h1>
 
-<h3 align="center"> Technologost at the European Commission enforcing the [Digital Markets Act](https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/europe-fit-digital-age/digital-markets-act-ensuring-fair-and-open-digital-markets_en) </h3>
+<h3 align="center">
+  Technologist at the European Commission enforcing the 
+  <a href="https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/europe-fit-digital-age/digital-markets-act-ensuring-fair-and-open-digital-markets_en">
+    Digital Markets Act
+  </a>
+</h3>
 
 [repository](https://github.com/MetaGuard))
  
@@ -27,12 +32,12 @@
 <a href="https://www.linkedin.com/in/gonzalo-munilla/" target="blank"><img align="center" src="https://logospng.org/download/linkedin/logo-linkedin-icon-2048.png" alt="https://www.linkedin.com/in/gonzalo-munilla/" height="40" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<!-- <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
 <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
 <a href="https://docs.soliditylang.org/en/v0.8.3/" target="_blank"> <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_solidity.svg" alt="solidity" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gonzalo-munillag&show_icons=true&locale=en&layout=compact" alt="gonzalo-munillag" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gonzalo-munillag&show_icons=true&locale=en&layout=compact" alt="gonzalo-munillag" /></p> -->
 
