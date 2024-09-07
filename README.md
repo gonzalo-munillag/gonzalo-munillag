@@ -7,8 +7,6 @@
   </a>
 </h3>
 
-[repository](https://github.com/MetaGuard))
- 
 📃 **You may download my [RESUME](https://github.com/gonzalo-munillag/Resume/raw/main/Resume.pdf).**
 
 💻 Co-creator of the first proposal for a metaverse incognito mode [MetaGuard](https://rdi.berkeley.edu/metaverse/) ([repository](https://github.com/MetaGuard)).
