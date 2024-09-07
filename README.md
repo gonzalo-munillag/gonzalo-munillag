@@ -7,15 +7,17 @@
   </a>
 </h3>
 
-📃 **You may download my [RESUME](https://github.com/gonzalo-munillag/Resume/raw/main/Resume.pdf).**
+<ul>
+  <li>You may download my resume [here](https://github.com/gonzalo-munillag/Resume/raw/main/Resume.pdf).</li>
 
-💻 Co-creator of the first proposal for a metaverse incognito mode [MetaGuard](https://rdi.berkeley.edu/metaverse/) ([repository](https://github.com/MetaGuard)).
+<li>Co-creator of the first proposal for a metaverse incognito mode [MetaGuard](https://rdi.berkeley.edu/metaverse/) ([repository](https://github.com/MetaGuard)).</li>
 
-📰 My research was covered in [Forbes](https://www.forbes.com/sites/dylansloan/2022/08/09/worried-your-phone-is-spying-on-you-just-wait-until-youre-inside-it/?sh=5960119c5794), [Google's Awakening Magazine](https://about.google/intl/de_AE/stories/differential-privacy/), and The Register ([I](https://www.theregister.com/2022/07/29/metaverse_privacy_study/) and [II](https://www.theregister.com/2022/08/18/metaguard_promises_protection_from_metaverse/))
+<li>My research was covered in [Forbes](https://www.forbes.com/sites/dylansloan/2022/08/09/worried-your-phone-is-spying-on-you-just-wait-until-youre-inside-it/?sh=5960119c5794), [Google's Awakening Magazine](https://about.google/intl/de_AE/stories/differential-privacy/), and The Register ([I](https://www.theregister.com/2022/07/29/metaverse_privacy_study/) and [II](https://www.theregister.com/2022/08/18/metaguard_promises_protection_from_metaverse/))</li>
 
-📝 I wrote differential privacy tutorials on [OpenMined's Blog](https://blog.openmined.org/author/gonzalo/), click [here](https://github.com/gonzalo-munillag/Blog) for more content. 
+<li>I wrote differential privacy tutorials on [OpenMined's Blog](https://blog.openmined.org/author/gonzalo/), click [here](https://github.com/gonzalo-munillag/Blog) for more content. </li>
 
-💬 Ask me about **privacy-enhancing technologies, differential privacy, blockchain, and digital platforms**.
+<li>Feel free to reach out to talk about **privacy-enhancing technologies, differential privacy, blockchain, and digital platforms**.</li>
+</ul>
 
 <h3 align="left">Worked and researched for:</h3>
 <p align="left">
@@ -24,11 +26,11 @@
 <a href="https://www.bmw.com/en/index.html" target="blank"><img align="center" src="https://www.bmw.com/etc.clientlibs/settings/wcm/designs/bmwcom/base/resources/ci2020/img/logo-light.svg" alt="https://www.bmw.com/en/index.html" height="40" width="40" /></a>
 </p>
 
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/g_munilla" target="blank"><img align="center" src="https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2019/12/twitter-logo.jpg" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/gonzalo-munilla/" target="blank"><img align="center" src="https://logospng.org/download/linkedin/logo-linkedin-icon-2048.png" alt="https://www.linkedin.com/in/gonzalo-munilla/" height="40" width="40" /></a>
-</p>
+</p>-->
 
 <!-- <h3 align="left">Languages and Tools:</h3>
 <p align="left">
