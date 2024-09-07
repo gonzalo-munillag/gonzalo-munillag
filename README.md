@@ -15,7 +15,7 @@
 
 📝 I wrote differential privacy tutorials on [OpenMined's Blog](https://blog.openmined.org/author/gonzalo/), click [here](https://github.com/gonzalo-munillag/Blog) for more content. 
 
-💬 Ask me about **privacy-enhancing technologies, differential privacy, blockchain, and messaging services**.
+💬 Ask me about **privacy-enhancing technologies, differential privacy, blockchain, and digital platforms**.
 
 <h3 align="left">Worked and researched for:</h3>
 <p align="left">
