@@ -8,15 +8,15 @@
 </h3>
 
 <ul>
-  <li>You may download my resume [here](https://github.com/gonzalo-munillag/Resume/raw/main/Resume.pdf).</li>
+  <li>You may download my resume <a href="https://github.com/gonzalo-munillag/Resume/raw/main/Resume.pdf">here</a>.</li>
 
-<li>Co-creator of the first proposal for a metaverse incognito mode [MetaGuard](https://rdi.berkeley.edu/metaverse/) ([repository](https://github.com/MetaGuard)).</li>
+  <li>Co-creator of the first proposal for a metaverse incognito mode <a href="https://rdi.berkeley.edu/metaverse/">MetaGuard</a> (<a href="https://github.com/MetaGuard">repository</a>).</li>
 
-<li>My research was covered in [Forbes](https://www.forbes.com/sites/dylansloan/2022/08/09/worried-your-phone-is-spying-on-you-just-wait-until-youre-inside-it/?sh=5960119c5794), [Google's Awakening Magazine](https://about.google/intl/de_AE/stories/differential-privacy/), and The Register ([I](https://www.theregister.com/2022/07/29/metaverse_privacy_study/) and [II](https://www.theregister.com/2022/08/18/metaguard_promises_protection_from_metaverse/))</li>
+  <li>My research was covered in <a href="https://www.forbes.com/sites/dylansloan/2022/08/09/worried-your-phone-is-spying-on-you-just-wait-until-youre-inside-it/?sh=5960119c5794">Forbes</a>, <a href="https://about.google/intl/de_AE/stories/differential-privacy/">Google's Awakening Magazine</a>, and The Register (<a href="https://www.theregister.com/2022/07/29/metaverse_privacy_study/">I</a> and <a href="https://www.theregister.com/2022/08/18/metaguard_promises_protection_from_metaverse/">II</a>)</li>
 
-<li>I wrote differential privacy tutorials on [OpenMined's Blog](https://blog.openmined.org/author/gonzalo/), click [here](https://github.com/gonzalo-munillag/Blog) for more content. </li>
+  <li>I wrote differential privacy tutorials on <a href="https://blog.openmined.org/author/gonzalo/">OpenMined's Blog</a>, click <a href="https://github.com/gonzalo-munillag/Blog">here</a> for more content.</li>
 
-<li>Feel free to reach out to talk about **privacy-enhancing technologies, differential privacy, blockchain, and digital platforms**.</li>
+  <li>Feel free to reach out to talk about <strong>privacy-enhancing technologies, differential privacy, blockchain, and digital platforms</strong>.</li>
 </ul>
 
 <h3 align="left">Worked and researched for:</h3>
