@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Gonzalo</h1>
-<h3 align="center">I am a case handler officer at the European Commission enforcing the [Digital Markets Act](https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/europe-fit-digital-age/digital-markets-act-ensuring-fair-and-open-digital-markets_en). </h3>
+<h3 align="center">Technologost at the European Commission enforcing the [Digital Markets Act](https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/europe-fit-digital-age/digital-markets-act-ensuring-fair-and-open-digital-markets_en). </h3>
  
 📃 **You may download my [RESUME](https://github.com/gonzalo-munillag/Resume/raw/main/Resume.pdf).**
 
