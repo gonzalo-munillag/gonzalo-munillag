@@ -46,5 +46,3 @@
 <a href="https://docs.soliditylang.org/en/v0.8.3/" target="_blank"> <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_solidity.svg" alt="solidity" width="40" height="40"/> </a> </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gonzalo-munillag&show_icons=true&locale=en&layout=compact" alt="gonzalo-munillag" /></p> -->
-
-001
