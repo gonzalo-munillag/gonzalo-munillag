@@ -25,7 +25,7 @@
 <a href="https://eecs.berkeley.edu/" target="blank"><img align="center" src="https://petris.org/wp-content/uploads/2018/05/UC-Berkeley-Logo-300x300.png" height="50" width="50" /></a>
 <a href="https://www.bmw.com/en/index.html" target="blank"><img align="center" src="https://www.bmw.com/etc.clientlibs/settings/wcm/designs/bmwcom/base/resources/ci2020/img/logo-light.svg" alt="https://www.bmw.com/en/index.html" height="40" width="40" /></a>
 <a href="https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/europe-fit-digital-age/digital-markets-act-ensuring-fair-and-open-digital-markets_en" target="_blank">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/European_Commission.svg/2560px-European_Commission.svg.png" alt="EC Logo" height="40" width="60">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/European_Commission.svg/2560px-European_Commission.svg.png" alt="EC Logo" height="60" width="70">
 </a>
 
 </p>
