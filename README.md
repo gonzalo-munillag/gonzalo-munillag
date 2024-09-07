@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 I'm Gonzalo</h1>
 
-Technologost at the European Commission enforcing the [Digital Markets Act](https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/europe-fit-digital-age/digital-markets-act-ensuring-fair-and-open-digital-markets_en)
+<center>Technologost at the European Commission enforcing the [Digital Markets Act](https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/europe-fit-digital-age/digital-markets-act-ensuring-fair-and-open-digital-markets_en)<center>
 
 [repository](https://github.com/MetaGuard))
  
