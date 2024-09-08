@@ -21,7 +21,7 @@
   <li>Feel free to reach out to talk about privacy-enhancing technologies, differential privacy, blockchain, and digital platforms</li>
 </ul>
 
-<h3 align="left">Worked and researched for:</h3>
+<h3 align="center">Worked and researched for:</h3>
 <p align="left">
 <a href="https://www.tum.de/en/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c8/Logo_of_the_Technical_University_of_Munich.svg" alt="https://www.tum.de/en/" height="30" width="50" /></a>
 <a href="https://eecs.berkeley.edu/" target="blank"><img align="center" src="https://petris.org/wp-content/uploads/2018/05/UC-Berkeley-Logo-300x300.png" height="50" width="50" /></a>
