@@ -16,7 +16,7 @@
 
   <li>My doctoral research has been covered in <a href="https://www.forbes.com/sites/dylansloan/2022/08/09/worried-your-phone-is-spying-on-you-just-wait-until-youre-inside-it/?sh=5960119c5794">Forbes I</a>, <a href="https://www.forbes.com/sites/craigsmith/2024/07/11/new-privacy-tools-promise-protection-from-prying-eyes/">Forbes II </a>, <a href="https://about.google/intl/de_AE/stories/differential-privacy/">Google's Awakening Magazine</a>, <a href="https://www.theregister.com/2022/07/29/metaverse_privacy_study">The Register I</a>,  <a href="https://www.theregister.com/2022/08/18/metaguard_promises_protection_from_metaverse/"> The Register II</a>, and <a href="https://www.theregister.com/2022/08/22/metaverse_opinion_vr/">The Register III</a></li>
 
-  <li>I wrote differential privacy tutorials on <a href="https://blog.openmined.org/author/gonzalo/">OpenMined's Blog</a>, click <a href="https://github.com/gonzalo-munillag/Blog">here</a> for more content</li>
+  <li>OpenMined's <a href="https://openmined.org/blog/openmined-featured-contributor-november-2021/">contributor of the month</a> for writing differential privacy blogs: (i) <a href="https://openmined.org/blog/choosing-epsilon/">Choosing Epsilon</a>, (ii) <a href="https://openmined.org/blog/differential-identifiability/">Differential Identifiability</a>, (iii) <a href="https://openmined.org/blog/local-sensitivity/">Local Sensitivity from Scratch</a>, (iv) <a href="https://openmined.org/blog/global-sensitivity/">Global Sensitivity from Scratch</a></li>
 
   <li>Feel free to reach out to talk about privacy-enhancing technologies, differential privacy, blockchain, and digital platforms</li>
 </ul>
