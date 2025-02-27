@@ -10,9 +10,9 @@
 <ul >
   <li>You may download my resume <a href="https://www.gonzalo-mg.com/resume.pdf">here.</a></li>
 
-  <li>Author of <a href="https://rdi.berkeley.edu/metaverse/">GÖD's GATE</a>. I'm looking for representation.</li>
+  <li>Author of <a href="https://www.gonzalo-mg.com/pages/godsgate/">GÖD's GATE</a>. I'm looking for representation.</li>
 
-  <li>Co-Creator of the first concept for a metaverse incognito mode <a href="https://rdi.berkeley.edu/metaverse/">MetaGuard</a> (<a href="[https://github.com/MetaGuard](https://www.gonzalo-mg.com/pages/godsgate/)">repository</a>).</li>
+  <li>Co-Creator of the first concept for a metaverse incognito mode <a href="https://rdi.berkeley.edu/metaverse/">MetaGuard</a> (<a href="https://github.com/MetaGuard">repository</a>).</li>
 
   <li>My research has been covered in <a href="https://www.forbes.com/sites/dylansloan/2022/08/09/worried-your-phone-is-spying-on-you-just-wait-until-youre-inside-it/?sh=5960119c5794">Forbes I</a>, <a href="https://www.forbes.com/sites/craigsmith/2024/07/11/new-privacy-tools-promise-protection-from-prying-eyes/">Forbes II </a>, <a href="https://about.google/intl/de_AE/stories/differential-privacy/">Google's Awakening Magazine</a>, <a href="https://www.theregister.com/2022/07/29/metaverse_privacy_study">The Register I</a>,  <a href="https://www.theregister.com/2022/08/18/metaguard_promises_protection_from_metaverse/"> The Register II</a>, and <a href="https://www.theregister.com/2022/08/22/metaverse_opinion_vr/">The Register III.</a></li>
 
