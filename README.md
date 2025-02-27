@@ -10,7 +10,7 @@
 <ul >
   <li>You may download my resume <a href="https://www.gonzalo-mg.com/resume.pdf">here.</a></li>
 
-  <li>Author of <a href="https://www.gonzalo-mg.com/pages/godsgate/">GÖD's GATE</a>. I'm looking for representation.</li>
+  <li>Author of <a href="https://www.gonzalo-mg.com/pages/godsgate/">GÖD'S GATE</a>. I'm looking for representation.</li>
 
   <li>Co-Creator of the first concept for a metaverse incognito mode <a href="https://rdi.berkeley.edu/metaverse/">MetaGuard</a> (<a href="https://github.com/MetaGuard">repository</a>).</li>
 
